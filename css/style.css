@@ -1,0 +1,429 @@
+.banner-container,
+.testimony-container,
+.product-banner-container {
+  background-color: #1868C7;
+}
+
+.login-font {
+
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 29px;
+}
+
+.backgd {
+  background: #EFF2F6;
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+
+  letter-spacing: 0.05em;
+
+  color: #000000;
+  /* identical to box height */
+
+}
+
+.section-text {
+  margin-top: 50px;
+  margin-left: 160px;
+}
+
+.max-width {
+  max-width: 1440px;
+}
+
+.vector-img {
+  margin-top: -450px;
+  margin-left: 250px;
+}
+
+.bg {
+  background: #F6F7FA;
+}
+
+.button-video {
+  margin-top: -550px;
+  margin-left: 360px;
+
+}
+
+.img-width {
+  width: 824px;
+}
+
+/* start my work */
+
+.input-text{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans' !important;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #15396D !important;
+}
+.error {
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans' !important;
+  font-style: normal;
+  font-weight: 700;
+  font-size:18px;
+  line-height: 150%;
+  color: #15396D;
+}
+
+.text-font-size {
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+
+  font: bolder;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 150%;
+}
+
+.text-bg-color {
+  color: #15396D;
+}
+
+.p-text {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 180%;
+  color: #333333;
+}
+
+.text-size {
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  /* font: bolder; */
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  /* font-size: 36px;
+  line-height: 54px; */
+  color: #15396D;
+}
+
+.footer-text{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 170%;
+/* or 27px */
+
+text-align: center;
+
+color: #15396D;
+}
+.apply-button{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box
+}
+.header-text{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+  
+  
+  color: #15396D;
+}
+.text-header {
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  font-style: normal;
+  font-weight: 700 ;
+  font-size: 40px;
+  line-height: 150%;
+  /* identical to box height, or 60px */
+
+  text-align: center;
+
+  color: #092C4C;
+}
+
+.img {
+
+  height: 350px;
+}
+
+.payment {
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+  /* identical to box height, or 24px */
+
+
+  color: #FFFFFF;
+}
+
+
+.card-text {
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  font-style: normal;
+  font-weight: 400 ;
+  font-size: 16px;
+  line-height: 180%;
+
+  color: #333333 !important;
+}
+
+.banner-container {
+
+  background: #1868C7;
+  ;
+}
+
+.banner-top-title {
+  background-color: #FFA612;
+}
+
+.our-work-icon {
+  color: #79bf24;
+  font-size: 19px;
+  margin-right: 7px;
+}
+
+.ourwork-angle-down-icon {
+  color: #1868c7;
+  font-size: 21px;
+}
+
+.service-image {
+  width: 100%;
+  border-radius: 10px;
+
+}
+
+.star-icon {
+  color: #e8b321;
+}
+
+.payment-card-img {
+  width: 42px;
+  margin-right: 5px;
+  border-radius: 4px;
+}
+
+.primary-text {
+  color: #084382;
+}
+
+.section-heading-bottom,
+.section-heading-left {
+  position: relative;
+}
+
+.section-heading-bottom::after,
+.section-heading-left::after {
+  content: "";
+  position: absolute;
+  width: 100px;
+  height: 4px;
+  transform: translateX(-50%);
+}
+
+.section-heading-left::after {
+  background: #1263b0;
+  bottom: -47%;
+  left: 11%;
+}
+
+.section-heading-bottom::after {
+  background: #000;
+  bottom: 0px;
+  left: 50%;
+}
+
+.home-group-container {
+  border: 1px solid #084382;
+  border-radius: 5px;
+}
+
+.home-group-container h3 {
+  font-size: 24px;
+}
+
+.home-group-text {
+  /* width: 200px; */
+  font-size: 10px;
+}
+
+.home-group-icon {
+  width: 40px;
+  height: 40px;
+  background-color: #084382;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0;
+  border-radius: 50%;
+}
+
+.home-group-icon i {
+  font-size: 25px;
+}
+
+.home-group-img {
+  width: 65px !important;
+  height: 65px !important;
+  border-radius: 50%;
+  background-color: #d2e8ff;
+  overflow: none;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-group-img img {
+  width: 27px;
+}
+
+.entry-type-container {
+  background: #dedede;
+  padding: 21px;
+}
+
+.login-form-div {
+  width: 70%;
+  margin: 0 auto;
+}
+
+/* label {
+  color: #5b6b8c ;
+} */
+
+/* Cart Start*/
+.cart {
+  background-color: #D4EDF9;
+  text-align: center;
+}
+
+.order-form {
+  border: 1px solid black;
+  font-size: 1.5em;
+}
+
+.background {
+  background: #15396D;
+
+  ;
+}
+
+.bacground-about-section {
+  background: #1868C7;
+  /* background: linear-gradient(269.13deg, #1868C7 0.8%, rgba(0, 0, 0, 0) 42.75%), linear-gradient(88.47deg, #1868C7 12.72%, rgba(0, 0, 0, 0) 74.82%), url(189026433_m.jpg); */
+}
+
+.button-about-us {
+  transform: translatex(50px, 50px) scale(0.6) rotate(45deg);
+}
+
+.order-form {
+  display: grid;
+  grid-template-columns:
+    150px 150px 150px 150px;
+  justify-content: center;
+  /* justify-items: end; */
+  /* justify-content: center; */
+}
+
+.button-shadow {
+  background: #3484AE;
+
+  border-radius: 8px;
+}
+
+
+table {
+  box-sizing: border-box;
+}
+
+.img-bg {
+  background-color: #F1F1F1;
+}
+
+.button {
+
+  /* background-color: #1263b0; */
+  background: #3484AE;
+max-height: 410px;
+  border-radius: 8px;
+}
+
+.btn {
+  box-shadow: 10px;
+
+  transform: translate(-5px, -5px);
+  border: 10px solid white;
+  border-radius: 10px;
+
+}
+
+.footer {
+  margin-top: 180px;
+}
+
+.bar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bullet button {
+  border-radius: 50%;
+
+}
+
+.bar .step .bullet::before,
+.bar .step .bullet::after {
+  position: absolute;
+  content: '';
+  margin-left: 24px;
+  margin-top: 15px;
+  height: 3px;
+  width: 100px;
+  background-color: #084382;
+}
+
+/* Cart End*/
+/* Details */
+.width {
+  max-width: 1440px;
+
+}
+
+.padding {
+  padding: 50px;
+}
+
+.border-size {
+  border-bottom: 4px solid blue;
+}
+
+/* Details */
+@media only screen and (max-width: 520px) {
+  .login-form-div {
+    width: 90%;
+  }
+}
